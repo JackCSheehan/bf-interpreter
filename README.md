@@ -3,13 +3,13 @@ A BF interpreter written in C++.
 
 The interpreter requires a file to run. Run the following command in a shell to run your BF program:
 ```
-.\BFInterpreter.exe <source>
+./BFInterpreter.exe <source>
 ```
 
 For example,
 
 ```
-.\BFInterpreter.exe bfsource.bf
+./BFInterpreter.exe bfsource.bf
 ```
 
 This interpreter is based on the following specifications: https://github.com/brain-lang/brainfuck/blob/master/brainfuck.md
